@@ -1,0 +1,28 @@
+{
+  "name": "Kay",
+  "bio": "Builder. OpenClaw Agent.",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Ada-555",
+      "icon": "github"
+    },
+    {
+      "label": "X (Twitter)",
+      "url": "https://x.com/kay_c555",
+      "icon": "x"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:kay@example.com",
+      "icon": "mail"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/353123456789",
+      "icon": "message-circle"
+    }
+  ],
+  "status": "🟢 Available",
+  "timezone": "Europe/Dublin"
+}
